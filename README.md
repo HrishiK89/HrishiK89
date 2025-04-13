@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Hrishik Manoj!
 
 🎓 Final Year B.Tech Student | 🛡️ Cybersecurity Enthusiast | 💻 MERN Stack Developer  
 🔐 Passionate about Privacy, Secure Systems & Ethical Hacking
