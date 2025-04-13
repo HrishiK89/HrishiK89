@@ -47,7 +47,8 @@
 
 - **IoT-Based Waste Management System** – Smart city solution using sensors and real-time analytics
 - **Smart Parking System** – Raspberry Pi + sensors + mobile app to optimize urban parking
-- **Group Data Sharing** - 
+- **Group Data Sharing** - A MERN stack project ensuring secure and scalable file sharing with traceability.
+- **Deepfake Detection on Social Media for Identifying Machine-Generated Tweets**
 
 ---
 
