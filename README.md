@@ -16,19 +16,23 @@
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
-   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="100"/>
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="100"/>
-   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="React" width="100"/>
-   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" alt="Git" width="100"/>
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="MongoDB" width="100"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60"/>
-   <img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="GCP" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/480/python--v1.png" alt="Python" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/480/google-cloud.png" alt="GCP" height="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
 ---
 
