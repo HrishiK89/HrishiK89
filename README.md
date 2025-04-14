@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Hrishik Manoj 👋</h1>
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/6c00e8ca-e012-4b50-90bb-e7a1c4550f44" height="300"/>
+  <br>Hrishik Manoj
+</h1>
 
 <p align="center">
   Cybersecurity Enthusiast | AI for Threat Detection | GCP Certified | MERN Stack Explorer
@@ -54,9 +57,8 @@
 
 ### 🌱 Currently Learning
 
-- Cloud Security Fundamentals  
-- Advanced Python for Threat Detection  
-- React.js for frontend security dashboards
+- C language
+- MITM mitigation
 
 ---
 
