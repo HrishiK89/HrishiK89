@@ -58,7 +58,7 @@
 ### 🌱 Currently Learning
 
 - C language
-- MITM mitigation
+- HTML
 
 ---
 
